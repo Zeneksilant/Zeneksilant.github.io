@@ -7,6 +7,15 @@
    font-size: 100px;
  }
 
+h2.videos {
+   font-family: "Courier New", Courier, monospace;
+   text-shadow: 10px 10px 11px green;
+   margin: 0px;
+   font-weight: bolder;
+   color:lime;
+   font-size: 80px;
+}
+
 div.four {
   color: white;
 }
