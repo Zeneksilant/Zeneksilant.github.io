@@ -1,0 +1,16 @@
+ p.one {
+   font-family: "Courier New", Courier, monospace;
+   text-shadow: 10px 10px 11px green;
+   margin: 0px;
+   font-weight: bolder;
+   color:lime;
+   font-size: 50px
+ }
+
+div.four {
+  color: white;
+}
+
+a.five {
+  color: green;
+}
