@@ -9,11 +9,11 @@
 
 p.videos {
    font-family: "Courier New", Courier, monospace;
-   text-shadow: 10px 10px 11px green;
+   text-shadow: 10px 10px 11px purple;
    margin: 0px;
    font-weight: bolder;
    color:lime;
-   font-size: 80px;
+   font-size: 70px;
 }
 
 div.four {
