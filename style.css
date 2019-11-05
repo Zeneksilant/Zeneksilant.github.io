@@ -1,4 +1,10 @@
- p.one {
+body {
+ background-image:  url(spac-30.jpg);
+ background-size: 100%;
+ margin:auto;
+}
+
+p.one {
    font-family: "Courier New", Courier, monospace;
    text-shadow: 10px 10px 11px green;
    margin: 0px;
@@ -16,10 +22,6 @@ p.videos {
    font-size: 70px;
 }
 
-div.four {
-  color: white;
-}
+div.ROLIKI {
 
-a.five {
-  color: green;
 }
